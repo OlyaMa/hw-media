@@ -1,0 +1,8 @@
+dist
+coverage
+doc
+webpack.*.js
+postcss.config.js
+prettier.config.js
+tailwind.config.js
+images.d.ts
